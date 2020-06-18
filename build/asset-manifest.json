@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-pomodoro/static/css/main.7a730dfe.chunk.css",
+    "main.js": "/react-pomodoro/static/js/main.17edb7f2.chunk.js",
+    "main.js.map": "/react-pomodoro/static/js/main.17edb7f2.chunk.js.map",
+    "runtime-main.js": "/react-pomodoro/static/js/runtime-main.44319084.js",
+    "runtime-main.js.map": "/react-pomodoro/static/js/runtime-main.44319084.js.map",
+    "static/js/2.5cce5737.chunk.js": "/react-pomodoro/static/js/2.5cce5737.chunk.js",
+    "static/js/2.5cce5737.chunk.js.map": "/react-pomodoro/static/js/2.5cce5737.chunk.js.map",
+    "index.html": "/react-pomodoro/index.html",
+    "precache-manifest.e9de4a9939058f54bc739d31e0466706.js": "/react-pomodoro/precache-manifest.e9de4a9939058f54bc739d31e0466706.js",
+    "service-worker.js": "/react-pomodoro/service-worker.js",
+    "static/css/main.7a730dfe.chunk.css.map": "/react-pomodoro/static/css/main.7a730dfe.chunk.css.map",
+    "static/js/2.5cce5737.chunk.js.LICENSE.txt": "/react-pomodoro/static/js/2.5cce5737.chunk.js.LICENSE.txt",
+    "static/media/07070161.mp3": "/react-pomodoro/static/media/07070161.ae5c841a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44319084.js",
+    "static/js/2.5cce5737.chunk.js",
+    "static/css/main.7a730dfe.chunk.css",
+    "static/js/main.17edb7f2.chunk.js"
+  ]
+}
